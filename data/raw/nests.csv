@@ -1,0 +1,233 @@
+nest_id,patch_id,species_code,common_name,discovery_date,discovery_stage,height_m,nest_fate,longitude,latitude
+N001,grassland_b_fence,BLJA,Blue jay,2026-05-13,Incubation,2.0,Failure,-78.167187,38.895761
+N002,coyote,UNKN,Unknown,2026-05-14,Inactive,1.0,Unknown,-78.171621,38.892565
+N003,grassland_b_fence,UNKN,Unknown,2026-05-13,Inactive,2.0,Unknown,-78.167884,38.895567
+N004,grassland_b_fence,UNKN,Unknown,2026-05-15,Inactive,1.3,Unknown,-78.167868,38.895564
+N005,grassland_b_fence,UNKN,Unknown,2026-05-15,Inactive,3.0,Unknown,-78.166804,38.896002
+N006,witch_hazel,UNKN,Unknown,2026-05-14,Inactive,0.5,Unknown,-78.155205,38.895301
+N007,witch_hazel,UNKN,Unknown,2026-05-13,Inactive,1.5,Unknown,-78.154799,38.895721
+N008,witch_hazel,UNKN,Unknown,2026-05-18,Inactive,2.2,Unknown,-78.156688,38.89525
+N009,grassland_b_fence,UNKN,Unknown,2026-05-19,Inactive,3.0,Unknown,-78.166843,38.896
+N010,forest_geo,UNKN,Unknown,2026-05-19,Inactive,1.0,Unknown,-78.157089,38.893743
+N011,grassland_a,UNKN,Unknown,2026-05-20,Inactive,1.5,Unknown,-78.159706,38.897197
+N012,grassland_a,UNKN,Unknown,2026-05-20,Inactive,1.3,Unknown,-78.159441,38.897866
+N013,grassland_b,UNKN,Unknown,2026-05-20,Inactive,1.1,Unknown,-78.164157,38.895156
+N014,grassland_b,UNKN,Unknown,2026-05-20,Inactive,1.2,Unknown,-78.164879,38.895321
+N015,grassland_b,UNKN,Unknown,2026-05-20,Inactive,1.1,Unknown,-78.165252,38.895138
+N016,forest_a,UNKN,Unknown,2026-05-16,Inactive,2.5,Unknown,-78.16073,38.891177
+N017,forest_geo,EATO,Eastern towhee,2026-05-27,Incubation,1.0,Failure,-78.156319,38.89303
+N018,coyote,UNKN,Unknown,2026-05-30,Inactive,1.8,Unknown,-78.171709,38.892737
+N019,coyote,UNKN,Unknown,2026-05-30,Inactive,2.3,Unknown,-78.171741,38.89269
+N020,leech,UNKN,Unknown,2026-05-30,Inactive,0.5,Unknown,-78.149961,38.896689
+N021,leech,UNKN,Unknown,2026-05-30,Inactive,1.0,Unknown,-78.149893,38.898481
+N022,leech,UNKN,Unknown,2026-05-30,Inactive,1.4,Unknown,-78.150764,38.897837
+N023,firehouse,NOCA,Northern cardinal,2026-06-01,Incubation,1.0,Failure,-78.163931,38.889596
+N024,forest_geo,UNKN,Unknown,2026-06-02,Inactive,0.2,Unknown,-78.156662,38.892746
+N025,forest_geo,UNKN,Unknown,2026-06-02,Inactive,0.75,Unknown,-78.156683,38.892984
+N026,forest_geo,UNKN,Unknown,2026-06-02,Inactive,1.25,Unknown,-78.157056,38.892978
+N027,forest_geo,UNKN,Unknown,2026-06-02,Inactive,1.0,Unknown,-78.1573533,38.8937461
+N028,forest_geo,UNKN,Unknown,2026-06-02,Inactive,2.0,Unknown,-78.157681,38.8938584
+N029,forest_geo,UNKN,Unknown,2026-06-02,Inactive,2.0,Unknown,-78.157977,38.894025
+N030,forest_a,UNKN,Unknown,2026-06-03,Inactive,1.75,Unknown,-78.159444,38.890269
+N031,forest_a,UNKN,Unknown,2026-06-03,Inactive,0.75,Unknown,-78.15946,38.890157
+N032,forest_a,UNKN,Unknown,2026-06-03,Inactive,1.0,Unknown,-78.159363,38.890069
+N033,forest_a,UNKN,Unknown,2026-06-03,Inactive,2.25,Unknown,-78.159458,38.889939
+N034,forest_a,UNKN,Unknown,2026-06-03,Building,2.25,Unknown,-78.160036,38.891243
+N035,forest_a,UNKN,Unknown,2026-06-03,Inactive,2.0,Unknown,-78.159779,38.891097
+N036,grassland_b,UNKN,Unknown,2026-06-03,Inactive,2.3,Unknown,-78.163794,38.89552
+N037,grassland_b,NOCA,Northern cardinal,2026-06-03,Incubation,1.75,Unknown,-78.166862,38.894075
+N038,grassland_b,UNKN,Unknown,2026-06-03,Inactive,2.0,Unknown,-78.166783,38.89406
+N039,firehouse,UNKN,Unknown,2026-06-04,Inactive,1.5,Unknown,-78.163587,38.890102
+N040,coyote,UNKN,Unknown,2026-06-04,Inactive,1.0,Unknown,-78.170772,38.89286
+N041,forest_geo,WEVI,White-eyed vireo,2026-06-05,Inactive,1.5,Unknown,-78.157519,38.89366
+N042,forest_a,UNKN,Unknown,2026-06-06,Incubation,1.0,Failure,-78.158828,38.890888
+N043,forest_geo,FISP,Field sparrow,2026-06-06,Incubation,0.25,Failure,-78.156476,38.893443
+N044,forest_geo,GRCA,Gray catbird,2026-06-06,Inactive,1.75,Unknown,-78.157673,38.893665
+N045,forest_geo,NOCA,Northern cardinal,2026-06-06,Incubation,1.5,Failure,-78.158002,38.894598
+N046,grassland_b,UNKN,Unknown,2026-06-06,Inactive,1.25,Unknown,-78.16628,38.893814
+N047,grassland_b,NOCA,Northern cardinal,2026-06-06,Incubation,1.0,Failure,-78.166211,38.893823
+N048,firehouse,UNKN,Unknown,2026-06-08,Inactive,3.0,Unknown,-78.163902,38.890282
+N049,firehouse,UNKN,Unknown,2026-06-08,Inactive,1.0,Unknown,-78.163701,38.89038
+N050,forest_geo,UNKN,Unknown,2026-06-09,Inactive,1.6,Unknown,-78.157018,38.89397
+N051,firehouse,UNKN,Unknown,2026-06-11,Inactive,2.0,Unknown,-78.163675,38.889732
+N052,coyote,UNKN,Unknown,2026-06-11,Inactive,0.9,Unknown,-78.170784,38.892725
+N053,forest_geo,UNKN,Unknown,2026-06-12,Inactive,1.5,Unknown,-78.15645,38.89304
+N054,leech,WEVI,White-eyed vireo,2026-06-13,Inactive,1.0,,-78.149923,38.896625
+N055,firehouse,UNKN,Unknown,2026-06-15,Inactive,1.5,Unknown,-78.163557,38.889395
+N056,firehouse,UNKN,Unknown,2026-06-15,Inactive,1.0,Unknown,-78.163475,38.889354
+N057,firehouse,UNKN,Unknown,2026-06-15,Inactive,1.4,Unknown,-78.163483,38.890611
+N058,grassland_a,UNKN,Unknown,2026-06-16,Inactive,0.5,Unknown,-78.160278,38.896152
+N059,leech,GRCA,Gray catbird,2026-06-17,Inactive,2.4,Unknown,-78.151643,38.898072
+N060,leech,UNKN,Unknown,2026-06-17,Inactive,1.6,Unknown,-78.151405,38.898214
+N061,leech,NOCA,Northern cardinal,2026-06-17,Building,2.0,Unknown,-78.151257,38.898226
+N062,leech,UNKN,Unknown,2026-06-17,Inactive,2.9,Unknown,-78.150653,38.897728
+N063,grassland_b,UNKN,Unknown,2026-06-17,Inactive,1.9,Unknown,-78.166384,38.894366
+N064,grassland_b,UNKN,Unknown,2026-06-17,Inactive,0.9,Unknown,-78.166612,38.894454
+N065,coyote,UNKN,Unknown,2026-06-18,Building,1.0,Unknown,-78.171031,38.892898
+N066,coyote,UNKN,Unknown,2026-06-18,Inactive,1.3,Unknown,-78.172426,38.892359
+N067,witch_hazel,UNKN,Unknown,2026-06-18,Inactive,0.8,Unknown,-78.154644,38.896297
+N068,witch_hazel,UNKN,Unknown,2026-06-18,,1.8,Unknown,-78.156604,38.895425
+N069,forest_geo,WEVI,White-eyed vireo,2026-06-19,Inactive,0.2,Unknown,-78.156832,38.893062
+N070,forest_geo,GRCA,Gray catbird,2026-06-19,Inactive,1.8,Failure,-78.157652,38.893226
+N071,forest_geo,UNKN,Unknown,2026-06-19,Inactive,1.7,Unknown,-78.157557,38.893313
+N072,forest_geo,UNKN,Unknown,2026-06-19,Inactive,,Unknown,-78.157492,38.893393
+N073,forest_geo,UNKN,Unknown,2026-06-19,Inactive,2.2,Unknown,-78.157164,38.893683
+N074,forest_geo,UNKN,Unknown,2026-06-19,Inactive,1.9,Unknown,-78.157604,38.893693
+N075,grassland_b_fence,UNKN,Unknown,2026-06-19,Inactive,2.2,Unknown,-78.165968,38.896645
+N076,grassland_b_fence,UNKN,Unknown,2026-06-19,Inactive,2.6,Unknown,-78.166205,38.896339
+N077,forest_a,OTHER,Other,2026-06-20,Incubation,1.1,Unknown,-78.158394,38.891991
+N078,forest_a,GRCA,Gray catbird,2026-06-20,Building,3.4,Success,-78.158431,38.892048
+N079,forest_a,UNKN,Unknown,2026-06-20,Inactive,3.7,Unknown,-78.158483,38.891905
+N080,forest_a,UNKN,Unknown,2026-06-10,Inactive,2.0,,-78.1602472,38.8924306
+N081,leech,NOCA,Northern cardinal,2026-06-10,Inactive,2.5,Unknown,-78.1507722,38.8982972
+N082,leech,NOCA,Northern cardinal,2026-06-10,Inactive,1.5,Unknown,-78.1508722,38.89845
+N083,forest_a,FISP,Field sparrow,2026-06-20,Inactive,0.6,,-78.1600722,38.8918639
+N084,forest_a,FISP,Field sparrow,2026-06-20,Inactive,0.6,,-78.1601194,38.8913222
+N085,firehouse,UNKN,Unknown,2026-06-22,Inactive,1.2,Unknown,-78.1641522,38.8902378
+N086,firehouse,UNKN,Unknown,2026-06-22,Inactive,1.6,Unknown,-78.163758,38.8898341
+N087,firehouse,UNKN,Unknown,2026-06-22,Inactive,2.0,Unknown,-78.1638941,38.8894912
+N088,firehouse,NOCA,Northern cardinal,2026-06-17,Inactive,1.0,Unknown,-78.1637304,38.8892738
+N089,grassland_b,UNKN,Unknown,2026-06-24,Inactive,2.4,Unknown,-78.1653502,38.8947247
+N090,firehouse,INBU,Indigo bunting,2026-06-25,Incubation,0.2,Failure,-78.1638256,38.8892317
+N091,coyote,UNKN,Unknown,2026-06-25,Inactive,2.1,Unknown,-78.1711363,38.8925525
+N092,witch_hazel,UNKN,Unknown,2026-06-25,Inactive,0.2,Unknown,-78.155835,38.8954562
+N093,grassland_a,NOCA,Northern cardinal,2026-06-27,Inactive,2.5,Unknown,-78.1598256,38.8967426
+N094,grassland_b_fence,UNKN,Unknown,2026-06-26,Inactive,1.3,Unknown,-78.1672528,38.8958001
+N095,forest_geo,UNKN,Unknown,2026-06-26,Inactive,2.3,Unknown,-78.1568532,38.8925621
+N096,leech,UNKN,Unknown,2026-06-27,Incubation,0.75,Failure,-78.1527001,38.897817
+N097,witch_hazel,INBU,Indigo bunting,2026-06-29,Incubation,0.7,Success,-78.1548584,38.8959113
+N098,witch_hazel,UNKN,Unknown,2026-06-29,Inactive,0.7,Unknown,-78.1557608,38.8954824
+N099,witch_hazel,UNKN,Unknown,2026-06-29,Inactive,0.6,Unknown,-78.1553714,38.8954512
+N100,forest_geo,FISP,Field sparrow,2026-06-30,Nestling,0.4,Success,-78.1569993,38.8929795
+N101,grassland_a,NOCA,Northern cardinal,2026-06-30,Incubation,1.4,Failure,-78.1593593,38.897792
+N102,coyote,UNKN,Unknown,2026-07-04,Incubation,2.3,Failure,-78.1683798,38.8928861
+N103,grassland_b_fence,UNKN,Unknown,2026-06-30,Inactive,3.0,Unknown,-78.1664034,38.8965701
+N104,coyote,UNKN,Unknown,2026-07-01,Inactive,1.75,Unknown,-78.1722048,38.8917184
+N105,grassland_b_fence,UNKN,Unknown,2026-07-04,Inactive,,Unknown,-78.1663973,38.8965741
+N106,coyote,UNKN,Unknown,2026-07-01,Inactive,1.25,Unknown,-78.1719669,38.8922637
+N107,forest_a,UNKN,Unknown,2026-07-01,Inactive,1.0,Unknown,-78.1597571,38.8912179
+N108,firehouse,UNKN,Unknown,2026-06-25,Inactive,1.2,Unknown,-78.1636673,38.8892261
+N109,grassland_b_fence,UNKN,Unknown,2026-07-01,Inactive,0.9,Unknown,-78.1657809,38.8971988
+N110,firehouse,UNKN,Unknown,2026-07-02,Inactive,1.3,Unknown,-78.1637218,38.8892041
+N111,coyote,,,2026-07-04,Inactive,,Unknown,-78.1723178,38.8915688
+N112,grassland_b_fence,NOCA,Northern cardinal,2026-07-04,Building,3.0,Success,-78.1664839,38.8964262
+N113,leech,INBU,Indigo bunting,2026-07-05,Incubation,1.0,Failure,-78.1546602,38.8986143
+N114,forest_a,UNKN,Unknown,2026-07-05,Inactive,0.7,Unknown,-78.1595986,38.8909959
+N115,grassland_b_fence,UNKN,Unknown,2026-07-07,Inactive,1.2,Unknown,-78.1671894,38.8957475
+N116,witch_hazel,INBU,Indigo bunting,2026-07-08,Nestling,0.7,Failure,-78.1572979,38.8956261
+N117,witch_hazel,FISP,Field sparrow,2026-07-08,Incubation,0.7,Failure,-78.1567729,38.895574
+N118,witch_hazel,UNKN,Unknown,2026-07-08,Inactive,0.5,Failure,-78.1570611,38.8955793
+N119,firehouse,NOCA,Northern cardinal,2026-07-11,Incubation,2.25,Failure,-78.1636277,38.8895225
+N120,witch_hazel,UNKN,Unknown,2026-07-08,,2.9,Unknown,-78.15468,38.89577
+N121,firehouse,UNKN,Unknown,2026-07-09,Inactive,0.9,Unknown,-78.1639158,38.889767
+N122,coyote,UNKN,Unknown,2026-07-09,Building,1.1,Unknown,-78.171492,38.8922296
+N123,coyote,INBU,Indigo bunting,2026-07-09,Incubation,1.0,Failure,-78.1720431,38.8916537
+N124,forest_geo,UNKN,Unknown,2026-07-10,Inactive,,Unknown,-78.1580334,38.8946096
+N125,firehouse,UNKN,Unknown,2026-07-11,Inactive,1.75,Unknown,-78.1630328,38.8910813
+N126,forest_a,INBU,Indigo bunting,2026-07-11,Inactive,1.75,Failure,-78.160044,38.8910935
+N127,leech,UNKN,Unknown,2026-07-11,Inactive,,Unknown,-78.1497611,38.8981381
+N128,firehouse,,,2026-07-13,Inactive,0.6,Unknown,-78.1643583,38.8900598
+N129,coyote,FISP,Field sparrow,2026-07-13,Incubation,,Failure,-78.1708243,38.892326
+N130,coyote,INBU,Indigo bunting,2026-07-13,Building,1.5,Failure,-78.1710384,38.8922397
+N132,grassland_b_fence,UNKN,Unknown,2026-07-14,Inactive,1.6,Unknown,-78.16576,38.8971183
+N133,grassland_a,NOCA,Northern cardinal,2026-07-14,Incubation,1.5,Failure,-78.1602463,38.8959294
+N134,grassland_b_fence,UNKN,Unknown,2026-07-16,Inactive,1.8,,-78.1671923,38.8956999
+N135,grassland_b_fence,UNKN,Unknown,2026-07-16,Inactive,1.8,,-78.1661771,38.8964809
+N136,witch_hazel,INBU,Indigo bunting,2026-07-16,Nestling,0.7,Unknown,-78.1560503,38.8955288
+N137,coyote,UNKN,Unknown,2026-07-16,Incubation,1.2,Failure,-78.1718622,38.8922452
+N138,coyote,UNKN,Unknown,2026-07-18,Inactive,5.0,,-78.1722128,38.8915921
+N139,forest_geo,UNKN,Unknown,2026-07-18,Inactive,2.0,Unknown,-78.1565689,38.8928883
+N141,grassland_a,UNKN,Unknown,2026-07-18,Inactive,2.1,Unknown,-78.1598812,38.8967852
+N142,leech,INBU,Indigo bunting,2026-07-19,Inactive,1.0,Unknown,-78.1528902,38.8977155
+N143,grassland_a,UNKN,Unknown,2026-07-22,Inactive,1.5,Unknown,-78.1597727,38.8979663
+N144,leech,UNKN,Unknown,2026-07-22,Incubation,2.3,Failure,-78.1515266,38.8979681
+N145,grassland_b,UNKN,Unknown,2026-07-22,Inactive,3.0,Unknown,-78.1665793,38.8945273
+N146,grassland_b,UNKN,Unknown,2026-07-25,Inactive,1.8,,-78.1651455,38.8952061
+N147,witch_hazel,UNKN,Unknown,2026-07-23,Inactive,0.75,Unknown,-78.156365,38.8956352
+N148,grassland_b,UNKN,Unknown,2026-07-25,Inactive,0.6,Unknown,-78.1653956,38.894887
+N149,grassland_b,UNKN,Unknown,2026-07-25,Inactive,1.5,,-78.1657579,38.8946699
+N150,grassland_b,UNKN,Unknown,2026-07-25,Inactive,0.7,Unknown,-78.1668981,38.893715
+N151,grassland_b,INBU,Indigo bunting,2026-07-25,,0.6,Unknown,-78.1656529,38.8945002
+N152,leech,UNKN,Unknown,2026-07-25,Inactive,3.0,Unknown,-78.1499761,38.8985644
+N153,leech,UNKN,Unknown,2026-07-25,Inactive,0.5,Unknown,-78.1499137,38.8979368
+N154,forest_geo,UNKN,Unknown,2026-07-28,Inactive,1.8,Unknown,-78.158665,38.8941492
+N155,forest_geo,UNKN,Unknown,2026-07-28,,1.5,Unknown,-78.1581677,38.8937069
+N156,forest_geo,UNKN,Unknown,2026-07-28,Inactive,,Unknown,-78.1582282,38.893803
+N157,forest_geo,UNKN,Unknown,2026-07-28,Inactive,1.3,Unknown,-78.158623,38.8939843
+N158,grassland_b_fence,UNKN,Unknown,2026-07-28,Inactive,1.5,Unknown,-78.1666173,38.8966079
+N159,coyote,EATO,Eastern towhee,2026-07-30,Incubation,1.2,,-78.1717823,38.8926313
+N160,forest_geo,UNKN,Unknown,2026-07-31,Inactive,2.0,,-78.1559978,38.8926842
+N161,grassland_b,UNKN,Unknown,2026-08-01,Inactive,0.5,Unknown,-78.1646947,38.8951355
+N162,grassland_b,NOCA,Northern cardinal,2026-08-01,Inactive,0.3,Unknown,-78.1640441,38.8951531
+N163,forest_a,UNKN,Unknown,2026-08-01,Inactive,1.3,Unknown,-78.1585541,38.8921648
+N164,forest_a,UNKN,Unknown,2026-08-01,Inactive,1.6,,-78.1583659,38.8919572
+N165,firehouse,INBU,Indigo bunting,2026-08-03,Nestling,0.6,Success,-78.1634196,38.8896329
+N166,firehouse,NOCA,Northern cardinal,2026-08-05,Inactive,2.6,Unknown,-78.1630817,38.890683
+N167,leech,UNKN,Unknown,2026-08-05,Inactive,0.25,,-78.149682,38.8972118
+N168,grassland_b_fence,FISP,Field sparrow,2026-08-11,Nestling,0.5,,-78.1662922,38.8960829
+NQ001,grassland_b_fence,ARNE,Artificial nest,,,2.0,Failure,-78.167187,38.895761
+NQ002,firehouse,ARNE,Artificial nest,2026-07-09,,,Success,-78.1637304,38.8892738
+NQ003,grassland_b_fence,ARNE,Artificial nest,,,2.0,Success,-78.167884,38.895567
+NQ004,firehouse,ARNE,Artificial nest,2026-07-09,,,Failure,-78.1641522,38.8902378
+NQ006,witch_hazel,ARNE,Artificial nest,,,0.5,Success,-78.155205,38.895301
+NQ008,witch_hazel,ARNE,Artificial nest,,,2.2,Failure,-78.156688,38.89525
+NQ011,grassland_a,ARNE,Artificial nest,,,1.5,Success,-78.159706,38.897197
+NQ012,grassland_a,ARNE,Artificial nest,,,1.0,Failure,-78.159441,38.897866
+NQ013,grassland_b,ARNE,Artificial nest,,,1.1,Failure,-78.164157,38.895156
+NQ017,forest_geo,ARNE,Artificial nest,,,1.0,Success,-78.156319,38.89303
+NQ018,coyote,ARNE,Artificial nest,,,1.8,Success,-78.171709,38.892737
+NQ022,leech,ARNE,Artificial nest,,,1.4,Success,-78.150764,38.897837
+NQ023,firehouse,ARNE,Artificial nest,,,1.0,Success,-78.163931,38.889596
+NQ025,forest_geo,ARNE,Artificial nest,,,0.75,Failure,-78.156683,38.892984
+NQ027,forest_geo,ARNE,Artificial nest,2026-07-24,,,Success,-78.1573533,38.8937461
+NQ028,forest_geo,ARNE,Artificial nest,2026-07-10,,,Success,-78.157681,38.8938584
+NQ031,forest_a,ARNE,Artificial nest,,,0.75,Success,-78.15946,38.890157
+NQ036,grassland_b,ARNE,Artificial nest,,,2.3,Success,-78.163794,38.89552
+NQ037,grassland_b,ARNE,Artificial nest,2026-07-11,,,Success,-78.166862,38.894075
+NQ038,grassland_b,ARNE,Artificial nest,2026-08-01,,,Success,-78.166783,38.89406
+NQ040,coyote,ARNE,Artificial nest,,,1.0,Success,-78.170772,38.89286
+NQ042,forest_a,ARNE,Artificial nest,,,1.0,Success,-78.158828,38.890888
+NQ043,forest_geo,ARNE,Artificial nest,2026-07-10,,,Success,-78.156476,38.893443
+NQ044,forest_geo,ARNE,Artificial nest,,,1.75,Success,-78.157673,38.893665
+NQ045,forest_geo,ARNE,Artificial nest,,,1.5,Success,-78.158002,38.894598
+NQ046,grassland_b,ARNE,Artificial nest,2026-07-19,,,Success,-78.16628,38.893814
+NQ047,grassland_b,ARNE,Artificial nest,2026-07-19,,,Success,-78.166211,38.893823
+NQ051,firehouse,ARNE,Artificial nest,2026-07-16,,,Success,-78.163675,38.889732
+NQ054,leech,ARNE,Artificial nest,,,1.0,Success,-78.149923,38.896625
+NQ056,firehouse,ARNE,Artificial nest,,,1.0,Success,-78.163475,38.889354
+NQ060,leech,ARNE,Artificial nest,2026-07-11,,,Success,-78.151405,38.898214
+NQ061,leech,ARNE,Artificial nest,2026-07-25,,,Success,-78.151257,38.898226
+NQ063,grassland_b,ARNE,Artificial nest,2026-07-11,,,Success,-78.166384,38.894366
+NQ064,grassland_b,ARNE,Artificial nest,2026-08-01,,,Success,-78.166612,38.894454
+NQ066,coyote,ARNE,Artificial nest,2026-07-16,,,Success,-78.172426,38.892359
+NQ067,witch_hazel,ARNE,Artificial nest,,,0.8,Failure,-78.154644,38.896297
+NQ068,witch_hazel,ARNE,Artificial nest,,,1.8,Success,-78.156604,38.895425
+NQ069,forest_geo,ARNE,Artificial nest,2026-07-18,,,Success,-78.156832,38.893062
+NQ071,forest_geo,ARNE,Artificial nest,2026-07-31,,,Success,-78.157557,38.893313
+NQ074,forest_geo,ARNE,Artificial nest,2026-07-18,,,Success,-78.157604,38.893693
+NQ082,leech,ARNE,Artificial nest,2026-07-11,,,Success,-78.1508722,38.89845
+NQ083,forest_a,ARNE,Artificial nest,,,0.6,Success,-78.1600722,38.8918639
+NQ084,forest_a,ARNE,Artificial nest,,,0.6,Success,-78.1601194,38.8913222
+NQ092,witch_hazel,ARNE,Artificial nest,2026-07-30,,,Success,-78.155835,38.8954562
+NQ094,grassland_b_fence,ARNE,Artificial nest,2026-07-10,,,Success,-78.1672528,38.8958001
+NQ095,forest_geo,ARNE,Artificial nest,2026-07-24,,,Failure,-78.1568532,38.8925621
+NQ097,witch_hazel,ARNE,Artificial nest,2026-07-30,,,Failure,-78.1548584,38.8959113
+NQ104,coyote,ARNE,Artificial nest,2026-07-16,,,Success,-78.1722048,38.8917184
+NQ107,forest_a,ARNE,Artificial nest,2026-07-19,,,Success,-78.1597571,38.8912179
+NQ109,grassland_b_fence,ARNE,Artificial nest,2026-07-10,,,Success,-78.1657809,38.8971988
+NQ114,forest_a,ARNE,Artificial nest,2026-07-19,,,Success,-78.1595986,38.8909959
+NQ116,witch_hazel,ARNE,Artificial nest,2026-07-23,,,Success,-78.1572979,38.8956261
+NQ118,witch_hazel,ARNE,Artificial nest,2026-07-23,,,Success,-78.1570611,38.8955793
+NQ119,firehouse,ARNE,Artificial nest,2026-07-30,,,Success,-78.1636277,38.8895225
+NQ121,firehouse,ARNE,Artificial nest,2026-07-16,,,Success,-78.1639158,38.889767
+NQ122,coyote,ARNE,Artificial nest,2026-07-23,,,Success,-78.171492,38.8922296
+NQ127,leech,ARNE,Artificial nest,2026-07-25,,,Success,-78.1497611,38.8981381
+NQ128,firehouse,ARNE,Artificial nest,2026-07-30,,,Success,-78.1643583,38.8900598
+NQ129,coyote,ARNE,Artificial nest,2026-07-23,,,Success,-78.1708243,38.892326
+NQ133,grassland_a,ARNE,Artificial nest,2026-07-24,,,Success,-78.1602463,38.8959294
+NQ134,grassland_b_fence,ARNE,Artificial nest,2026-07-31,,,Success,-78.1671923,38.8956999
+NQ135,grassland_b_fence,ARNE,Artificial nest,2026-07-31,,,Success,-78.1661771,38.8964809
+NQ139,forest_geo,ARNE,Artificial nest,2026-07-31,,,Success,-78.1565689,38.8928883
+NQ141,grassland_a,ARNE,Artificial nest,2026-07-24,,,Success,-78.1598812,38.8967852
+NQ142,leech,ARNE,Artificial nest,2026-08-01,,,Success,-78.1528902,38.8977155
+NQ144,leech,ARNE,Artificial nest,2026-08-01,,,Failure,-78.1515266,38.8979681
